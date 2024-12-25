@@ -1,4 +1,4 @@
-![logo](https://github.com/pawanmaurya108/pawanmaurya108/blob/main/web-development-banner.gif)
+![logo](https://github.com/pawanmaurya108/pawanmaurya108/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Pawan Maurya</h1>
 <h3 align="center">A 21 year old Computer Science graduate from India.</h3>
 
